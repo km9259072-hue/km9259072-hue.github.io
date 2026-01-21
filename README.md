@@ -13,7 +13,7 @@
 - [五、心理](#四联系作者)
 - [六、预言](#四联系作者)
 - [七、证据](#四联系作者)
-    - [7.1 UFO图片](./content/proof/index.md)
+    - [7.1 UFO图片](./content/proof/UfoInage.md)
 
 ---
 
