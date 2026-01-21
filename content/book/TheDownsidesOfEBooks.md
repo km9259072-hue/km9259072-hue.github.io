@@ -11,8 +11,8 @@
   <p>Weitere Frage, die wahrscheinlich etwas blöd ist, denn du hast ja einmal gesagt, dass wir keine elektronische Bücher herstellen sollen, weil diese zum effectiven Lernen nichts taugen würden. Trotzdem aber die Frage: Stellt ihr selbst auch keine elektronische Bücher her?</p>
 </details>
 
-1. 还有一个问题，可能有点傻，因为您之前说过我们不应该制作电子书，因为它们对有效学习没有用。不过，问题是：你们自己难道不制作电子书吗？
-2. 还有一个问题，这可能问得有点傻，因为你曾经说过，我们不应该制作电子书，因为它们对有效学习没有用。但我还是想问：你们自己也不制作电子书吗？
+1.还有一个问题，可能有点傻，因为您之前说过我们不应该制作电子书，因为它们对有效学习没有用。不过，问题是：你们自己难道不制作电子书吗？
+2.还有一个问题，这可能问得有点傻，因为你曾经说过，我们不应该制作电子书，因为它们对有效学习没有用。但我还是想问：你们自己也不制作电子书吗？
 
 <b>普塔：</b>
 <details>
@@ -65,7 +65,7 @@
 </details>
 
 1. 44.这没错，但是那些以电子方式处理文章、书籍、文字或类似事物的人无法感知这一点，因此既不认识也不理解，因为他们沉迷于电子产品，沉浸在自己不真实的现实中。
-2. 44. 没错。但那些投身于电子文章、书籍、文献或类似事物的人，往往无法察觉到这一点，既不能意识到也无法理解。这是因为他们被电子产品所困，沉溺于一种自我的虚假现实中。
+2. 44.没错。但那些投身于电子文章、书籍、文献或类似事物的人，往往无法察觉到这一点，既不能意识到也无法理解。这是因为他们被电子产品所困，沉溺于一种自我的虚假现实中。
 
 <details>
   <summary>点击查看原文</summary>
