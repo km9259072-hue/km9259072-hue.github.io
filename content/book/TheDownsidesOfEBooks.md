@@ -10,6 +10,8 @@
 
 ### 原文
 
+- [第542次接触](#原文第542次接触2012年7月7日星期六下午2点30分)
+
 ---
 
 #### 第542次接触2012年7月7日星期六下午2点30分
@@ -146,3 +148,51 @@
 **普塔**：
 
 46.你说的是对的。
+
+---
+
+#### 原文第542次接触2012年7月7日星期六下午2点30分
+
+Billy:
+
+Letzte Nacht, wie schon verschiedentlich zuvor, hatte ich wieder einen Telephonanruf und wurde zum x-ten Mal gefragt, warum wir keine Elektronikbücher machen. Auch haben wir bei einer GV einmal darüber gesprochen, wobei ich jedoch auch da gemäss dem dagegen stimmte, was Zafenatpaneach,du, Quetzal und euer Gremium dazu zu sagen hatten, was leider auch nur in einem Privatgespräch erörtert und deshalb nicht in einem Kontaktbericht niedergeschrieben wurde. Daher möchte ich dich bitten, einmal von deiner Seite aus etwas offiziell dazu zu sagen, und zwar auch das, was du mir bezüglich der Verbindung zwischen Buch und Leser resp. Leserin gesagt hast.
+
+Ptaah:
+
+3.Was ich dir bezüglich elektronischer Bücher erklärt habe, bezieht sich sowohl auf meine eigenen Erfahrungen und auf die von Zafenatpaneach, Quetzal wie auch auf unser Gremium.
+
+4.Elektronische Schriftwerke, die auch bei Plejaren gegeben sind, natürlich in viel höher entwickelten Formen, dienen einzig und allein zur Verbreitung von Informationen sowie zur Kommunikation.
+
+5.Gegensätzlich dazu haben wir Buchwerke, die jedoch nicht aus Papier und Kartoneinfassungen bestehen, sondern aus unverderblichen künstlichen Materialien, die auch nicht in einer Art Druckverfahren, sondern in einer Form beschriftet werden, die Ähnlichkeit mit einer Phototechnik hat.
+
+6.Diese für Buchwerke künstlichen Materialien sind, wie gesagt, unverderblich, und die Buchwerke finden bei unseren Bevölkerungen grosse Beliebtheit und also regen Gebrauch.
+
+7.Insbesondere sind es, seit wir deine Schriften und Bücher haben dürfen, deine lehrreichen Werke,die tatsächlich in grossen Massen Verbreitung gefunden haben.
+
+8.Elektronische Buchwerke werden nicht daraus gemacht, ausser in der Weise, dass sie bei Belehrungen durch die Geistführer [Schöpfungsenergieführer]auf zweckdienliche Weise auf geeigneten grossen Flächen zum Ablesen für alle Zuhörer wiedergegeben und dann den Zuhörenden erläutert werden können.
+
+9.Ansonsten jedoch werden keinerlei elektronische Buch- und Schriftwerke hergestellt und also auch nicht genutzt, denn das Ganze einer elektronischen Buchform wirkt auf die Lesenden kalt und unpersönlich, folglich keine wertvolle Verbindung zum Buchinhalt und damit auch kein eventuelles Mitleben mit dem Inhalt hergestellt werden kann.
+
+10.Das Ganze wirkt auf die den elektronischen Inhalt Lesenden also unpersönlich und unregsam,folglich tiefgreifende Regungen ausbleiben.
+
+11.Der elektronische Buch- oder Schrifteninhalt wirkt wie banale Phrasen, Steifheiten, ohne Wärme und wie Gezwungenheiten, Störungen, Unvertrautheiten, Verschrobenheiten und gar wie Albernheiten usw., weil keine innere Verbindung daraus hervorgehen kann und alles wie ein kalter Fremdkörper wirkt.
+
+12.Im Gegenteil dazu steht ein richtiges Buchwerk, das in den Händen gehalten werden kann und mit dem der lesende Mensch als Besitzer desselben eine Besitzverbindung eingeht.
+
+13.Dabei aber geht das Ganze noch tiefer und schafft durch den Buch- oder Schrifteninhalt in dem diesen Inhalt lesenden Menschen eine tiefgreifende Wärme und Verbindung sowie ein Mitleben mit dem Stoff, den er liest.
+
+14.Durch die Art und Weise dieser inneren persönlichen Verbindung wird auch das Interesse geweckt, wodurch sowohl ein Mitdenken und Mitleben sowie auch ein Miterleben entsteht, wodurch die Gedanken und Gefühle angeregt werden und damit auch ein Hinterfragen und Lernen entsteht,was bei elektronischen Buch- und Schriftwerken nur schwerlich oder überhaupt nicht erreicht werden kann.
+
+15.Dies eben darum, weil elektronische Bücher und Schriften nur kalte Informationen wiedergeben,die keine persönliche innere Regungen ansprechen und keine tiefe Verbindung zu Verstand und Vernunft sowie zur inneren Wärme schaffen können.
+
+16.Wird ein Buch benutzt, dann wird mit diesem und dessen Inhalt eine persönliche Beziehung verbunden, so es auch immer wieder in die Hand genommen, wieder gelesen oder studiert wird, wobei damit auch Gedanken und Gefühle verbunden werden.
+
+17.Elektronische Geräte, Bücher und Schriften sowie deren Inhalt jedoch bleiben kalt, unpersönlich,beziehungs- und verbindungslos, denn die Geräte sind für den Menschen nur ein Stück lebloses Material, und der Inhalt erlöscht, sobald das Gerät ausgeschaltet wird.
+
+18.Ein Buch hingegen wirkt auf den Menschen als etwas, mit dem und dessen Inhalt er sich auch dann noch auseinandersetzt, wenn es weggelegt wird, denn es ist einerseits jederzeit wieder greifbar, und andererseits kann der Inhalt durch neuerliches Lesen oder Nachdenken immer wieder verinnerlicht und nachvollzogen werden.
+
+19.Ein elektronisches Gerät hinterlässt zudem in keinem Fall eine solche Vielfalt von bleibenden Eindrücken, wie diese ein Buch vermittelt, das in den Händen gehalten werden kann und auch jederzeit wieder greifbar ist, wenn es weggelegt wird und mit dem der Mensch gedanklichgefühlsmässig eine Beziehung und Verbindung eingeht.
+
+Billy:
+
+Danke, das einmal offen zu erklären, kann wirklich zum Verständnis führen, dass Elektronikbücher zum Lernen wirklich ungeeignet sind, weil sie rein nur zur Information und vielleicht noch zur Unterhaltung dienen, ansonsten jedoch nicht als wertvoll in bezug auf das Lernen bezeichnet werden können. Wenn ich so darüber nachdenke, dann erscheint mir das Ganze wie bei Zeitungen, die Nachrichten und sonstige Informationen bringen, die von der Leserschaft aufgesogen und dann sehr schnell wieder vergessen werden, weil das ganze Informative ja nur oberflächlich, nicht persönlich bezogen und ohne persönliche Beziehung und Verbindung ist. Das ist der springende Punkt.
