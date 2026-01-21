@@ -10,6 +10,7 @@
 - [第20次接触](#第020次接触)
 - [第52次接触](#第052次接触)
 - [第123次接触-纯能量飞船](#第123次接触)
+- [第139次接触](#第139次接触)
 
 ---
 
@@ -67,3 +68,13 @@
 | ![](/static/image/123/CR123-Image1.jpg) | ![](/static/image/123/CR123-Image2.jpg) | ![](/static/image/123/CR123-Image3.jpg) |
 | ![](/static/image/123/CR123-Image4.jpg) | ![](/static/image/123/CR123-Image5.jpg) | ![](/static/image/123/CR123-Image6.jpg) |
 | ![](/static/image/123/CR123-Image7.jpg) | ![](/static/image/123/CR123-Image8.jpg) |  |
+
+---
+
+### 第139次接触
+
+|  |  |  |
+|--|--|--|
+| ![](/static/image/139/CR139-Image1.jpg) | ![](/static/image/139/CR139-Image2.jpg) | ![](/static/image/139/CR139-Image3.jpg) |
+| ![](/static/image/139/CR139-Image4.jpg) | ![](/static/image/139/CR139-Image5.jpg) | ![](/static/image/139/CR139-Image6.jpg) |
+| ![](/static/image/139/CR139-Image7.jpg) | ![](/static/image/139/CR139-Image8.jpg) |  |
