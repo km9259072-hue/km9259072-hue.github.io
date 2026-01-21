@@ -250,6 +250,7 @@ Dann kann man wohl sagen, dass der Mensch der Erde durch die digitalen Medien la
 38.Dadurch entstehen Anarchismus, Gleichgültigkeit, Mutwilligkeit, Lebensverachtung, Wissens-,Weisheitsund Lieblosigkeit sowie ausartende Aggressionen, und zwar bis hin zur bedenkenlosen, leichtsinnigen und ausartenden Harmung der Mitmenschen.
 
 39.Weiter entstehen daraus auch Faktoren grenzenloser Verantwortungslosigkeit sowie der Gefährdung oder Zerstörung des eigenen Lebens oder anderer Menschen.
+
 ---
 
 #### 原文第616次接触2015年3月12日星期四下午1点54分
@@ -276,7 +277,7 @@ Das ist mal eine klare Erklärung, warum richtige, jedoch nicht elektronische B�
 
 44.Das ist richtig, doch jene Menschen, die sich in elektronischer Weise mit Artikeln, Büchern,Schriften oder mit ähnlichen Dingen befassen, vermögen dies nicht wahrzunehmen und also weder zu realisieren noch zu verstehen, und zwar darum, weil sie durch die Elektronik befangen sind und sich einer eigenen irrealen Realität hingeben.
 
-45. In dieser Weise wird sozusagen eine eigene Welt erschaffen, in der der Mensch lebt, gefangen und von der er süchtig und damit abhängig ist.
+45.In dieser Weise wird sozusagen eine eigene Welt erschaffen, in der der Mensch lebt, gefangen und von der er süchtig und damit abhängig ist.
 
 **Billy**:
 
@@ -284,6 +285,6 @@ Es kann wohl dabei gesagt werden, dass ein Mensch in dieser Weise sehr schnell z
 
 **Ptaah**:
 
-46. Was du sagst, ist richtig.
+46.Was du sagst, ist richtig.
 
 
