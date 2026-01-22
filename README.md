@@ -18,6 +18,7 @@
     - [7.3 其他图片](./content/img/Misc.md)
     - [7.4 人物图片](./content/img/Portrait.md)
     - [7.5 UFO演示](./content/proof/UfoDemonstrate.md)
+    - [7.6 比利被暗杀图片](./content/img/Assassinate.md)
 
 ---
 
