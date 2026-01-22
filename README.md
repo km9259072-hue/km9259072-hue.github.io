@@ -21,7 +21,7 @@
     - [7.6 比利被暗杀图片](./content/img/Assassinate.md)
     - [7.7 UFO痕迹](./content/proof/UfoMark.md)
     - [7.8 外星人痕迹](./content/proof/PortraitMark.md)
-    - [7.8 外星人武器](./content/proof/Firearms.md)
+    - [7.9 外星人武器](./content/proof/Firearms.md)
 
 ---
 
