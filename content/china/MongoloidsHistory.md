@@ -87,18 +87,31 @@ According to this discovery, therefore, the yellow race came to Earth 25,978 yea
 ---
 
 ### 第236次接触
-<a id="title-1"></a>
+<a id="title-2"></a>
 Billy:
+
 Davon wollte ich eigentlich noch reden und dir auch noch Fragen stellen. Du hast nun aber darüber ausführlich gesprochen, so ich eigentlich nichts mehr dazu zu sagen oder zu fragen habe. – – Doch noch etwas: Kannst du mir sagen, welches das älteste und welches das jüngste Volk ist auf der Erde, wenn man von den Erdlingen selbst absieht, die ja auf der Erde kreiert wurden!
+
 Ptaah:
-191. Die ersten drei Völker, die zuerst zur Erde kamen, waren gleichzeitig die Roten, die Braunen und die Weissen.
-192. Von diesen aber auch nur die Normalwüchsigen.
-193. Dies war vor rund 22 Millionen Jahren, als der Zerstörer in den Lyranischen Heimatsystemen sein Zerstörungswerk getan hatte.
-194. Erst sehr viel später kamen dann noch Andersfarbige sowie Riesen, Giganten, Titanen und Zwerg-wüchsige sowie Naturwesen zur Erde, unter anderem auch Zwerge, wovon sich sehr viel später, nämlich erst vor etwa 21,000 Jahren, späte Nachkommen an den Gestaden des SANURA-SEES ansiedelten und dort lebten, bis im Westen des Sees der Damm riss und alles wegschwemmte.
-195. Die Gestade, an denen die etwa 40 cm grossen Zwergwesen wohnten, befanden sich damals genau da, wo heute das Center steht.
-196. Die Andersfarbigen, die nachträglich zur Erde kamen, waren ausschliesslich sehr stark dunkelhäutig und setzten sich auf jenem Land fest, das heute als Kontinent Afrika gilt, von wo aus sie sich dann weiterverbreiteten, einige nach Australien und Neuseeland und andere an verschiedene andere Orte.
-197. Die gelben Völker der Chinesen und Japaner, die sind auf der Erde die jüngsten Bewohner, denn ihr Erscheinen auf diesem Planeten war erst vor etwas mehr als einem kosmischen Zeitalter, und zwar ziemlich genau vor 25,978 Jahren.
-198. Sie kamen her vom Planeten NISSAN in der Nachbarschaft von LASAN in den Lyra-Systemen.
-199. Zuvor aber, das wurde erst die letzten Jahre ergründet, lebten sie jenseits der Sonne auf einem Planeten mit dem Namen KUDRA, in einem Sonnensystem, das als NISAN-System bezeichnet wurde.
-200. Sie kamen vor 2,4 Millionen Jahren in die Lyrasysteme und nach Nisan, weil sie infolge Überbevölkerung emigrieren mussten.
-201. Und den Weg zu unseren Urheimatplaneten fanden sie durch eine altlyranische Grossexpeditionsflotte, die jenseits der Sonne expeditionierte und im NISAN-System auf den Planeten Kudra und dort wiederum auf die gelben Völker stiess.
+
+191.Die ersten drei Völker, die zuerst zur Erde kamen, waren gleichzeitig die Roten, die Braunen und die Weissen.
+
+192.Von diesen aber auch nur die Normalwüchsigen.
+
+193.Dies war vor rund 22 Millionen Jahren, als der Zerstörer in den Lyranischen Heimatsystemen sein Zerstörungswerk getan hatte.
+
+194.Erst sehr viel später kamen dann noch Andersfarbige sowie Riesen, Giganten, Titanen und Zwerg-wüchsige sowie Naturwesen zur Erde, unter anderem auch Zwerge, wovon sich sehr viel später, nämlich erst vor etwa 21,000 Jahren, späte Nachkommen an den Gestaden des SANURA-SEES ansiedelten und dort lebten, bis im Westen des Sees der Damm riss und alles wegschwemmte.
+
+195.Die Gestade, an denen die etwa 40 cm grossen Zwergwesen wohnten, befanden sich damals genau da, wo heute das Center steht.
+
+196.Die Andersfarbigen, die nachträglich zur Erde kamen, waren ausschliesslich sehr stark dunkelhäutig und setzten sich auf jenem Land fest, das heute als Kontinent Afrika gilt, von wo aus sie sich dann weiterverbreiteten, einige nach Australien und Neuseeland und andere an verschiedene andere Orte.
+
+197.Die gelben Völker der Chinesen und Japaner, die sind auf der Erde die jüngsten Bewohner, denn ihr Erscheinen auf diesem Planeten war erst vor etwas mehr als einem kosmischen Zeitalter, und zwar ziemlich genau vor 25,978 Jahren.
+
+198.Sie kamen her vom Planeten NISSAN in der Nachbarschaft von LASAN in den Lyra-Systemen.
+
+199.Zuvor aber, das wurde erst die letzten Jahre ergründet, lebten sie jenseits der Sonne auf einem Planeten mit dem Namen KUDRA, in einem Sonnensystem, das als NISAN-System bezeichnet wurde.
+
+200.Sie kamen vor 2,4 Millionen Jahren in die Lyrasysteme und nach Nisan, weil sie infolge Überbevölkerung emigrieren mussten.
+
+201.Und den Weg zu unseren Urheimatplaneten fanden sie durch eine altlyranische Grossexpeditionsflotte, die jenseits der Sonne expeditionierte und im NISAN-System auf den Planeten Kudra und dort wiederum auf die gelben Völker stiess.
