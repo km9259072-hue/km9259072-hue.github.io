@@ -10,11 +10,13 @@
 
 - [比利迈尔小册子](#比利迈尔小册子)
 - [第236次接触](#title-1)
+- [第410次接触](#title-1769605305444)
 
 ### 原文
 
 - [比利迈尔小册子](#原文比利迈尔小册子)
 - [第236次接触](#title-2)
+- [第410次接触](#title-1769605004)
 
 ---
 
@@ -68,6 +70,140 @@
 
 ---
 
+### 第410次接触
+<a id="title-1769605305444"></a>
+比利：
+
+那么，我想再提一下我们——包括我和奎扎尔——私下讨论过的事情，所以没有记录在报告中。安德烈亚斯问过我这件事。如果允许我引用一些对话内容：
+
+第251次接触，1995年2月3日
+
+比利：
+
+因此，两大群基因改造生物逃离了天狼星区域，定居在太阳系之外，也就是说，它们分别在非常遥远的太阳系中建立了自己的家园。它们在银河系中心太阳（即银河系的中心恒星）之外的行星上定居下来，最终被古老的天琴座血统的太空旅行者发现。之后，它们迁徙到天琴座区域，最终在地球近代史上抵达了这颗星球，并在中国、日本等地定居，形成了中国人和日本人，而这些民族又衍生出各种新的分支或所谓的种族。
+
+231. 接触，1989年11月9日
+
+羽蛇神：
+
+260. 没错。
+
+261. 中国人的真正祖先是两万五千多年前从你们银河系之外的某个区域移民而来。这就是为什么他们说“太阳之外”，指的是银河系中心的太阳，也就是银河系黑洞围绕其旋转的区域。
+
+231. 接触，1989年11月9日
+
+羽蛇神：
+
+260. 没错。
+
+261. 中国人的真正祖先是两万五千多年前从你们银河系之外的某个区域移民而来。这就是为什么他们说“太阳之外”，指的是银河系中心的太阳，也就是银河系黑洞围绕其旋转的区域。262. 中国的原始人类生活在两百多万年前。
+
+263. 在来自银河系之外的外星人到来之后，生活在如今中国地区的、后来才出现的地球原住民逐渐灭绝。
+
+264. 他们死于一种无法治愈的遗传疾病，这种疾病在他们与来自“太阳之外”的新移民通婚后传播开来。
+
+265. 然而，所有这些知识，以及太空技术和其他许多方面的知识，连同移民的起源，都随之失传了。
+
+266. 来自“太阳之外”的移民——现代中国人的真正祖先——从古代中国领土上的原住民那里吸收了许多文化价值观，并创造了一些小众文化。
+
+267. 后来，在青铜时代，又发生了一次重大的文化转变，这一次是通过移民实现的。
+
+236. 接触，1990年4月26日
+
+普塔赫：
+
+197. 中国和日本的黄种人是地球上最年轻的居民，因为他们出现在这个星球上仅仅一个宇宙年龄多一点，大约是25978年前。
+
+198. 他们来自天琴座星系拉桑附近的尼桑行星。
+
+199. 然而，在此之前——这是近年来才发现的——他们生活在太阳系之外，一个名为库德拉的行星上，位于尼桑星系。
+
+200. 他们于240万年前来到天琴座星系和尼桑，因为人口过剩，他们不得不迁徙。
+
+201. 他们通过一支庞大的古代天琴座远征舰队找到了我们祖先的家园星球，这支舰队航行到太阳之外，遇到了尼桑星系的库德拉星球，并在那里遇到了黄种人。
+比利：
+
+啊哈，那么“太阳之外”究竟是指哪里呢？如果我理解没错，你指的不是我们的太阳，也不是来自古老的天琴座星系的太阳，而是我们所知的银河系中心太阳？
+
+普塔：
+
+202. 没错。
+
+那就这些了。我想请你下次再解释一下最重要的几点，这样我才能记住并记下来。
+
+普塔：
+
+47. 我们应该早点这么做，因为很明显还会有其他问题。
+
+48. 那么：
+
+49. 你们地球上的人称中国人和日本人为黄种人，他们的直系祖先在25994年前（从今天算起）来到地球，定居在今天的中国和日本地区。
+
+50. 他们的远古祖先，如同白种人、红种人和棕种人一样，都是来自天狼星区域的难民。在数百万年前的远古时期，天狼星区域被推移到了德恩时空连续体中。
+
+51. 黄种人最初定居在太阳系之外的遥远区域，或者更确切地说，是在中心太阳之外。他们在尼桑星系的一颗名为库德拉的行星上建立了庞大的人口，造成了严重的人口过剩。
+
+52. 这导致了大约240万年前的大规模移民，此外，库德拉行星也逐渐变得不适宜居住。大量人口迁徙到中心太阳的这一侧，即天琴座星系，具体来说，是在一颗名为拉桑的邻近行星上定居。
+
+53. 他们的行星被命名为尼桑。
+
+54. 黄种人最初被命名为尼桑。
+
+……54. 天琴座星系及其行星与我们的时空连续体存在几分之一秒或几秒的偏移，而尼桑星系及其行星（包括库德拉）则属于银河系之外的德恩时空连续体。
+
+55. 还应注意的是，大约240万年前，当库德拉的移民离开库德拉并迁徙到天琴座星系时，他们中的一部分也来到了地球，定居在如今中国和日本的地区，而这些地区当时已经居住着地球人。
+
+56. 早期定居地球的库德拉人移民由于没有获得任何技术进步，只能听天由命，因为原本应该运送技术物资的运输船从未抵达地球，最终失踪了。
+
+57. 因此，这些移民也失去了与天琴座星系中的移民联系所需的技术。
+
+58. 这导致他们被“遗忘”。
+
+59. 25994年前，尼桑再次面临人口过剩的威胁，促使更大规模的移民群体形成，他们开始研究更早时期其他移民的资料。
+
+60. 这使他们来到地球以及今天的中国和日本地区，导致向这些地区迁徙，并重新在今天的中国和日本定居，包括与早期移民的远亲后裔以及地球出生的人融合。
+
+59. 61. 这些后来的移民是经民众批准来到地球的，他们没有任何科技，希望重新开始，防止人口过剩再次发生。
+
+62. 然而，这些人保留了他们的知识和创造精神，因此，尽管缺乏科技，他们仍然不断取得技术进步，尽管方式已不再符合旧的技术形式。
+
+63. 人口过剩的趋势至今仍然存在。
+
+64. 还应该提到的是，这两个黄种人从未友好相处，这也是他们经常发生冲突，甚至导致武装冲突的原因。
+
+比利：
+
+谢谢，这很清楚。但是，您能否详细说明一下赫诺克人中的一位，他也是银河系另一侧以及尼桑星球上诺科德米翁血统的远亲后裔？
+普塔赫：
+
+65. 只能说，赫诺克的一位人格曾在银河系外的尼桑星系库德拉星和天琴座的尼桑星上，以先知的身份影响着黄种人。
+
+66. 然而不幸的是，他的努力被忽视和遗忘，这在诺科德米翁血统的许多民族以及其他与之有过接触的民族中，一直都是如此。
+
+67. 同样的事情也发生在地球上，赫诺克多次出现，每次都以新的身份出现，后来又改了名字。
+
+68. 诺科德米翁血统的民族从未失去过他们的先知传承，这一事实至今依然如此。
+
+69. 当然，在所有并非诺科德米翁血统的民族中，也一直存在着其他先知，这种情况一直延续至今，并将永远如此。
+
+70. 然而，诺科德米翁先知的血脉将会延续下去。即便如今乃至未来，诺科德米翁的先知们不再像过去那样亲自出现在所有远方的后裔面前，如同他们穿梭于宇宙、拜访遥远星球上的各个族群一般。
+
+71. 那样的时代已经过去，因为如今科技通讯已经普及。诺科德米翁血脉中首次出现了一位精通文字的先知，他亲自记录一切，并将所见所闻传播给遍布浩瀚宇宙的所有诺科德米翁后裔。
+
+71. 72. 这种预言形式的出现确实是史无前例的，因为如今所有诺科德米翁的后裔都已接受了足够的意识和灵性教育，能够通过文字进行学习。
+
+73. 当然，仍然需要灵性导师来提供必要的诠释，并以口头方式教导人们，但这必须在诺科德米翁（Nokodemion）传承先知的教义框架内进行。
+
+74. 不属于诺科德米翁传承但同样履行职责的平行先知，是独立的教师和使者，他们运用逻辑和智慧来传达他们所理解和领悟的真理教义。他们并不熟悉更深层次的灵性教义的深刻见解和真理，而只了解自古以来诺科德米翁传承先知所传授的内容。
+
+75. 诺科德米翁传承之外的这类先知在黄种人中也十分活跃。然而，如同所有民族一样，也出现了假先知，创造了错误的哲学。由此，宗教和教派往往发展起来，其中一些错误的哲学和思想流传至今，正如地球上的情况一样。
+
+比利：
+
+啊哈，原来如此。你刚才的解释里巧妙地融入了一条新的信息——我明白了。我以前真的不知道这些，因为我从来没注意过。不过现在，你最近谈到的关于我们经文和书籍的一些内容，我渐渐明白了。
+
+---
+
 ### 原文比利迈尔小册子
 
 It is correct that the Chinese and the Japanese human races on Earth are very young. If you calculate backward from the year 1990, they have only settled here on Earth 25,978 years ago, the time that denotes the final colonization on Earth. The background for the appearance of the Chinese and Japanese races is as follows: The two yellow races were created and lived in their original native land on the other side of the Milky Way - on the other side of the central sun of the galaxy, therefore. For this reason it is said that they came from the other side of the sun. Their native system was called the NISAN system, where they lived on planet KUDRA.
@@ -115,3 +251,131 @@ Ptaah:
 200.Sie kamen vor 2,4 Millionen Jahren in die Lyrasysteme und nach Nisan, weil sie infolge Überbevölkerung emigrieren mussten.
 
 201.Und den Weg zu unseren Urheimatplaneten fanden sie durch eine altlyranische Grossexpeditionsflotte, die jenseits der Sonne expeditionierte und im NISAN-System auf den Planeten Kudra und dort wiederum auf die gelben Völker stiess.
+
+---
+
+### 第410次接触
+<a id="title-1769605004"></a>
+Billy:
+
+Dann möchte ich noch etwas ansprechen, worüber wir – auch Quetzal und ich – einmal privaterweise gesprochen haben, was folglich nicht in einem Bericht festgehalten wurde. Andreas hat mich danach gefragt. Wenn ich rezitieren darf, was bei verschiedenen Gesprächen gesagt wurde:
+
+251.Kontakt, 3. Februar 1995
+
+Billy:
+
+So flüchteten zwei grosse Völker Genmanipulierter aus den Sirius-Gebieten und siedelten sich jenseits der Sonne an, was soviel bedeutet, dass sie sich auf sehr weit abseits liegenden Sonnensystemen resp. Planeten jenseits der Galaxis-Zentralsonne, der Milchstrasse-Zentralsonne, niederliessen und ansiedelten, um dort dann dereinst von Raumfahrern der alten Lyranerlinie entdeckt zu werden, wonach sie in die Lyra-Gebiete emigrierten und letztendlich dann in erst jüngerer Erdgeschichte auf diesen Planeten kamen, wo sie sich in China und Japan usw. ansiedelten und die chinesischen und japanischen Völker bildeten, woraus sich verschiedene neue Zweige resp. sogenannte Rassen ergaben.
+
+231.Kontakt, 9. November 1989
+
+Quetzal:
+
+260.Das ist von Richtigkeit.
+
+261.Die eigentlichen Urahnen der Chinesen waren vor mehr als 25'000 Jahren Zuwanderer aus einem Gebiet, das jenseits eurer Galaxie war, weshalb von ‹jenseits der Sonne› gesprochen wurde, womit die galaktische Zentralsonne gemeint war, in der sich das galaktische Schwarze Loch bewegt.
+
+262.Die eigentlichen Ururmenschen in China lebten schon vor mehr als zwei Millionen Jahren.
+
+263.Nach der Zuwanderung der Fremden von jenseits der Milchstrasse starben im Laufe der Zeit die sehr viel späteren erdgeborenen Einheimischen aus, die in jenen Gebieten lebten, wo das heutige China ist.
+
+264.Sie starben infolge einer unheilbaren Erbkrankheit, die um sich griff, als sie sich geschlechtlich mit den neuen Zuwanderern von ‹jenseits der Sonne› vermischten.
+
+265.All dieses Wissen jedoch, wie auch das Wissen in bezug der Raumfahrtechnik und vieler anderer Dinge ging ebenso verloren wie auch das Wissen um die ursprüngliche Herkunft der Zugewanderten.
+
+266.Allein schon von den Ureinwohnern, die die urchinesischen Gebiete belebten und gewisse kleine Kulturen geschaffen hatten, übernahmen die Zuwanderer von ‹jenseits der Sonne›, also die eigentlichen Ur-Vorfahren des heutigen Chinesenvolkes, viele kulturelle Werte der Ureinwohner.
+
+267.Dann erfolgte später abermals eine grosse Kulturveränderung zur Bronzezeit, und zwar als Einwanderer.
+
+236.Kontakt, 26. April 1990
+
+Ptaah:
+
+197.Die gelben Völker der Chinesen und Japaner, die sind auf der Erde die jüngsten Bewohner, denn ihr Erscheinen auf diesem Planeten war erst vor etwas mehr als einem kosmischen Zeitalter, und zwar ziemlich genau vor 25'978 Jahren.
+
+198.Sie kamen her vom Planeten NISSAN in der Nachbarschaft von LASAN in den Lyra-Systemen.
+
+199.Zuvor aber, das wurde erst die letzten Jahre ergründet, lebten sie jenseits der Sonne auf einem Planeten mit dem Namen KUDRA, in einem Sonnensystem, das als NISAN-System bezeichnet wurde.
+
+200.Sie kamen vor 2,4 Millionen Jahren in die Lyrasysteme und nach Nisan, weil sie infolge Überbevölkerung emigrieren mussten.
+
+201.Und den Weg zu unseren Urheimatplaneten fanden sie durch eine altlyranische Grossexpeditionsflotte, die jenseits der Sonne expeditionierte und im Nisan-System auf den Planeten Kudra und dort wiederum auf die gelben Völker stiess.
+
+Billy:
+
+Aha, und wo liegt denn dieses Jenseits der Sonne? Wenn ich richtig informiert bin, dann meinst du mit der Sonne nicht unsere Sonne und auch nicht eine Sonne der alten Lyrasysteme, sondern sprichst damit jene Sonne an, die wir als Zentralsonne unserer Milchstrasse kennen?
+
+Ptaah:
+
+202.Das entspricht den Gegebenheiten, ja.
+
+Soweit also das. Dazu möchte ich dich bitten, dass du das Wichtigste ein andermal erklärst, damit ich es dann abrufen und einmal schriftlich festhalten kann.
+
+Ptaah:
+
+47.Das hätten wir schon früher tun sollen, denn es war ja ersichtlich, dass noch Fragen dazu kommen werden.
+
+48.Dann also:
+
+49.Die direkten Vorfahren der gelben Völker, wie die Völker Chinas und Japans bei euch auf der Erde genannt werden, kamen – ab heute gerechnet – vor 25994 Jahren zur Erde und siedelten sich in den Gebieten des heutigen China und Japan an.
+
+50.Deren sehr ferne Vorfahren waren zu sehr frühen Zeiten resp. Jahrmillionen – wie die weissen, roten und braunen Rassen – teilweise Flüchtlinge aus den zum Dern-Raum-Zeit-Gefüge versetzten SiriusGebieten.
+
+51.Die gelben Rassen setzen sich zuerst in ferne Gebiete jenseits der Sonne resp. der Zentralsonne ab, wo sie im Nisan-System auf einem Planeten namens KUDRA grosse Völker gründeten und eine gewaltige Überbevölkerung erzeugten.
+
+52.Das führte dazu – nebst dem, dass der Planet langsam unbewohnbar wurde –, dass vor rund 2,4 Millionen Jahren eine grosse Emigration durchgeführt wurde, wobei grosse Massen abwanderten, die sich diesseits der Zentralsonne in den Lyra-Systemen ansiedelten, und zwar auf einem Nachbarplaneten von Lasan.
+
+53.Ihr Planet wurde NISSAN genannt.
+
+54.Auch diese Systeme und Planeten in den Lyra-Gebieten waren zu unserem Raum-Zeit-Gefüge um Sekundenbruchteile oder Sekunden versetzt, während jedoch das Nisan-System und dessen Planeten – also auch Kudra – jenseits der Galaxie zum Dern-Raum-Zeit-Gefüge gehörte.
+
+55.Nun ist noch zu sagen, dass vor rund 2,4 Millionen Jahren, als die Emigranten sich von Kudra absetzten und in die Lyra-Gebiete zogen, auch ein gewisser Teil zur Erde kam und sich bereits in den Gebieten des heutigen China und Japan niederliess, wo auch bereits erdgeborene Menschenwesen existierten.
+
+56.Die frühen Emigranten aus den Kudra-Völkern, die sich auf der Erde ansiedelten, wurden ohne alle technischen Errungenschaften ihrem Schicksal überlassen, denn das Transportschiff, das die technischen Materialien hätte bringen sollen, traf nie auf der Erde ein, sondern blieb verschollen.
+
+57.So waren die Einwanderer auch jener Technik beraubt, mit der sie sich hätten mit den Emigranten in den Lyra-Systemen in Verbindung setzen können.
+
+58.Das führte dazu, dass sie ‹vergessen› wurden.
+
+59.Vor 25'994 Jahren nun war es auf Nissan wieder soweit, dass sich eine Überbevölkerung anbahnte, weshalb sich grössere Emigrantengruppen bildeten, die Nachforschungen anstellten in bezug auf andere Emigranten zu früheren Zeiten.
+
+60.So stiessen sie auch auf die Erde und die Gebiete des heutigen China und Japan, wovon die Folge war, dass Abwanderungen in diese Gebiete auf der Erde stattfanden und das heutige China und Japan neu besiedelt wurden, wobei auch Verschmelzungen mit den sehr fernen Nachfahren der früheren Emigranten und mit den Erdgeborenen stattfanden.
+
+61.Diese späteren Einwanderer kamen durch einen Volksbeschluss frei jeder Technik zur Erde, um einen neuen Anfang zu finden, der davor bewahren sollte, dass abermals ein Problem der Überbevölkerung entstünde.
+
+62.Nichtsdestoweniger jedoch behielten die Völker ihr Wissen und ihr Erfinderbewusstsein, folglich sie trotz all der fehlenden Technik ständig technische Fortschritte machten, wenn auch in einer Art und Weise, die nicht mehr den alten technischen Formen entsprach.
+
+63.Die Tendenz zum Überbevölkerungsproblem blieb bis zum heutigen Tag bestehen.
+
+64.Zu erwähnen ist noch, dass die beiden gelben Völker einander nie hold waren, weshalb sie sich dauernd in Hader ergingen, was nicht selten zu kriegerischen Auseinandersetzungen führte.
+
+Billy:
+
+Danke, das ist klar, doch kannst du noch etwas sagen, welche Bewandtnis es mit einer der Henok- Persönlichkeiten hat, die ja auch bei jenen fernen Nachfahren der Nokodemion-Linie auf der anderen Seite der Milchstrasse wie aber auch auf Nissan war?
+
+Ptaah:
+
+65.Dazu ist nur zu sagen, dass eine der Henok-Persönlichkeiten sowohl auf Kudra im Nisan-System jenseits der Galaxie als auch auf Nissan in den Lyra-Gebieten als Prophet bei den gelben Völkern wirkte.
+
+66.Leider jedoch wurden seine Bemühungen in den Hintergrund gedrängt und missachtet, wie das seit alters her bei vielen Völkern der Nokodemion-Linie und auch bei Völkern, die damit sonstwie in Berührung kamen, immer wieder der Fall war.
+
+67.Auch auf der Erde geschah es gleichermassen, als Henoch mehrmals in Erscheinung trat, natürlich immer als neue Persönlichkeit und später auch unter anderen Namen.
+
+68.Keines der Völker aus der Nokodemion-Linie wurde jemals ohne seine Prophetenlinie gelassen, und zwar bis heute.
+
+69.Natürlich gab es seit alters her immer auch andere Propheten in allen Völkern, die nicht aus der Linie des Nokodemion entstammten, und das hat sich so erhalten bis in die heutige Zeit; und es wird auch weiterhin so bleiben.
+
+70.Doch die Nokodemion-Propheten-Linie bleibt erhalten, auch wenn heute und in Zukunft die auftretenden Propheten der Nokodemion-Linie als stets neue Persönlichkeiten nicht mehr bei allen seinen fernen Nachfahren in persona in Erscheinung treten, wie das früher der Fall war, als die Propheten dieser Linie noch Reisende durch den Weltenraum waren und die verschiedensten Völker auf weit entfernten Planeten besuchten.
+
+71.Diese Zeit ist vorbei, weil heute die technische Kommunikationsmöglichkeit genutzt wird und erstmals ein Prophet aus der Linie Nokodemions erschienen ist, der die Schriftsprache in grosser Fertigkeit beherrscht und eigenhändig alles auch schriftlich festhält, wodurch es auf diese Art verbreitet wird, und zwar bei allen Nokodemion-Nachfahren-Völkern in den universellen Weiten.
+
+72.Tatsächlich tritt diese Verkündungsform eines Propheten erstmals in Erscheinung, was den Grund darin findet, dass alle Nokodemion-Nachfahren heute soweit in bezug auf die bewusstseinsmässigen und geistigen Belange gebildet sind, dass sie durch die Schriftsprache lernen können.
+
+73.Natürlich bedarf es trotzdem der Geistführer, die dazu noch notwendige Auslegungen machen und auch mündlich das Volk unterrichten, doch geschieht das im Rahmen der Lehre des Propheten aus der Nokodemion-Linie.
+
+74.Nebenhergehende Propheten, die nicht zur Nokodemion-Linie gehören, die aber dennoch Aufgaben ausführen, sind selbstständige Lehrer und Künder, die durch Logik und Verstand jene Dinge der Wahrheitslehre bringen, die sie erfassen und verstehen, wobei ihnen die tiefen Erkenntnisse und Wahrheiten der tieferen Geisteslehre nicht bekannt sind, sondern nur jene, die durch die Propheten der Nokodemion-Linie seit alters her gelehrt werden.
+
+75.Solche Propheten ausserhalb der Nokodemion-Linie waren auch in grosser Anzahl bei den gelben Völkern tätig, wobei es sich jedoch nebst diesen auch ergab, wie bei allen Völkern, dass falsche Propheten in Erscheinung traten, die falsche Philosophien erschufen, woraus sich nicht selten Religionen und Sekten entwickelten, deren falsches Philosophie- und Gedankengut sich teilweise bis heute erhalten hat, was auch auf der Erde der Fall ist.
+
+Billy:
+
+Aha, so ist das also. Eine Neuigkeit ist fein säuberlich in deine Erklärung eingeflochten – ich verstehe. Diese Dinge habe ich wirklich nicht gewusst, denn ich habe mich nie darum gekümmert. Jetzt aber wird mir einiges klar, worüber du letzthin gesprochen hast in bezug auf unsere Schriften und Bücher.
