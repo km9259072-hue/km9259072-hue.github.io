@@ -1,149 +1,66 @@
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>文章库 - 深度分类模式</title>
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <title>比利迈尔接触报告中文版 - 昂宿星人案例实录与UFO证据 | FIGU中文网</title>
+    <meta name="description" content="本站专注于比利·迈尔（Billy Meier）接触报告的中文翻译与研究,收录最全的昂宿星人（Plejaren）对话录、UFO证据照片及相关预言解析,昂宿星人案例实录与UFO证据。">
+    <meta name="keywords" content="比利迈尔, 接触报告, Billy Meier, 昂宿星人, Plejaren, UFO证据, 外星文明真相, 迈尔案例">
     <style>
-        :root {
-            --sidebar-width: 280px;
-            --primary: #1a2a6c;
-            --accent: #3498db;
-            --bg: #f8f9fa;
-        }
+        :root { --main: #1a2a6c; --accent: #f39c12; --bg: #f8f9fa; }
+        body { font-family: 'Segoe UI', system-ui, sans-serif; margin: 0; background: var(--bg); color: #333; }
+        
+        /* 导航 */
+        nav { display: flex; justify-content: space-between; padding: 20px 8%; background: white; align-items: center; position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
+        .logo { font-size: 24px; font-weight: 800; color: var(--main); letter-spacing: -1px; }
+        .nav-links a { text-decoration: none; color: #555; margin-left: 30px; font-size: 15px; font-weight: 500; transition: 0.3s; }
+        .nav-links a:hover { color: var(--accent); }
 
-        body { font-family: 'PingFang SC', sans-serif; margin: 0; background: var(--bg); display: flex; }
+        /* 英雄区 */
+        /*.hero { background: linear-gradient(rgba(26,42,108,0.8), rgba(26,42,108,0.8)), url('https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=1350&q=80') center/cover; height: 70vh; display: flex; flex-direction: column; justify-content: center; align-items: center; color: white; text-align: center; }*/
+        .hero { background: linear-gradient(rgba(26,42,108,0.8), rgba(26,42,108,0.8)), url('/static/image/ufo_banner2.png') center/cover; height: 70vh; display: flex; flex-direction: column; justify-content: center; align-items: center; color: white; text-align: center; }
+        .hero h1 { font-size: 1.5rem; margin-bottom: 10px; }
+        .hero p { font-size: 1.2rem; opacity: 0.9; margin-bottom: 30px; }
+        .btn { padding: 12px 35px; background: var(--accent); color: white; text-decoration: none; border-radius: 50px; font-weight: bold; transition: 0.3s; box-shadow: 0 4px 15px rgba(243,156,18,0.3); }
+        .btn:hover { transform: scale(1.05); background: #e67e22; }
 
-        /* 左侧侧边栏 */
-        .sidebar {
-            width: var(--sidebar-width);
-            height: 100vh;
-            background: white;
-            border-right: 1px solid #eee;
-            position: fixed;
-            overflow-y: auto;
-            padding: 20px 0;
-        }
-
-        .sidebar-title { padding: 0 25px 20px; font-weight: bold; color: var(--primary); border-bottom: 1px solid #f5f5f5; }
-
-        /* 三级分类样式 */
-        .category-menu { list-style: none; padding: 0; margin: 0; }
-        .level-1 { font-weight: bold; padding: 12px 25px; cursor: pointer; display: block; color: #333; }
-        .level-2 { padding: 8px 40px; font-size: 14px; color: #666; cursor: pointer; display: block; }
-        .level-3 { padding: 6px 55px; font-size: 13px; color: #999; cursor: pointer; display: block; border-left: 2px solid transparent; }
-        .level-3:hover, .level-3.active { color: var(--accent); border-left-color: var(--accent); background: #f0f8ff; }
-
-        /* 右侧内容区 */
-        .main-content {
-            margin-left: var(--sidebar-width);
-            flex: 1;
-            padding: 40px;
-        }
-
-        .content-header { margin-bottom: 30px; display: flex; justify-content: space-between; align-items: center; }
-        .breadcrumb { font-size: 14px; color: #888; margin-bottom: 10px; }
-
-        /* 文章卡片 */
-        .article-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
-        .post-card { 
-            background: white; border-radius: 12px; padding: 20px; 
-            box-shadow: 0 2px 8px rgba(0,0,0,0.05); transition: 0.3s;
-            text-decoration: none; color: inherit; border: 1px solid transparent;
-        }
-        .post-card:hover { transform: translateY(-5px); border-color: var(--accent); }
-        .post-card h3 { margin: 0 0 10px; font-size: 18px; color: var(--primary); }
-        .post-card p { font-size: 14px; color: #666; line-height: 1.6; }
-        .post-tag { font-size: 11px; background: #eee; padding: 2px 8px; border-radius: 4px; color: #888; }
+        /* 特色展示 */
+        .section { padding: 80px 8%; display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; }
+        .f-card { background: white; padding: 40px; border-radius: 15px; text-align: center; box-shadow: 0 10px 30px rgba(0,0,0,0.03); }
+        .f-card h3 { margin-top: 0; color: var(--main); }
     </style>
 </head>
 <body>
-
-    <aside class="sidebar">
-        <div class="sidebar-title">比利迈尔接触报告</div>
-        <ul class="category-menu">
-            <li>
-                <span class="level-1">1-100</span>
-                <ul class="category-menu">
-                    <li>
-                        <span class="level-2">欧洲小说</span>
-                        <ul class="category-menu">
-                            <li class="level-3 active" onclick="filterCategory('英国文学')">英国文学</li>
-                            <li class="level-3" onclick="filterCategory('法国文学')">法国文学</li>
-                            <li class="level-3" onclick="filterCategory('俄国文学')">俄国文学</li>
-                        </ul>
-                    </li>
-                    <li>
-                        <span class="level-2">现代诗歌</span>
-                        <ul class="category-menu">
-                            <li class="level-3" onclick="filterCategory('自由诗')">自由诗</li>
-                            <li class="level-3" onclick="filterCategory('十四行诗')">十四行诗</li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-            <li>
-                <span class="level-1">💻 科技资讯</span>
-                <ul class="category-menu">
-                    <li>
-                        <span class="level-2">人工智能</span>
-                        <ul class="category-menu">
-                            <li class="level-3" onclick="filterCategory('深度学习')">深度学习</li>
-                            <li class="level-3" onclick="filterCategory('机器人学')">机器人学</li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </aside>
-
-    <main class="main-content">
-        <div class="breadcrumb" id="path">文章库 / 文学名著 / 欧洲小说 / 英国文学</div>
-        <div class="content-header">
-            <h2 id="cat-name">英国文学</h2>
-            <div style="font-size: 14px; color: #999;">共 3 篇文章</div>
+    <nav>
+        <div class="logo">比利迈尔接触报告</div>
+        <div class="nav-links">
+            <a href="./index.html">首页</a>
+            <a href="list.html">列表</a>
+            <!--<a href="#">翻译指南</a>-->
         </div>
-
-        <div class="article-grid" id="article-container">
-            <a href="detail.html" class="post-card" data-cat="英国文学">
-                <span class="post-tag">英国文学</span>
-                <h3>The Great Gatsby</h3>
-                <p>《了不起的盖茨比》中英对照：探讨美国梦的破碎与繁华...</p>
-            </a>
-            <a href="detail.html" class="post-card" data-cat="英国文学">
-                <span class="post-tag">英国文学</span>
-                <h3>A Tale of Two Cities</h3>
-                <p>狄更斯笔下的伦敦与巴黎，经典的开篇总是百看不厌...</p>
-            </a>
-             <a href="detail.html" class="post-card" data-cat="法国文学" style="display:none;">
-                <span class="post-tag">法国文学</span>
-                <h3>Les Misérables</h3>
-                <p>雨果名著，深刻描绘了法律与慈悲的冲突...</p>
-            </a>
+    </nav>
+    <!--<div style="background: white; padding: 30px 0; border-bottom: 1px solid #eee;">
+        <div style="max-width: 600px; margin: 0 auto; display: flex; gap: 10px; padding: 0 20px;">
+            <input type="text" placeholder="搜索双语文章内容..." style="flex: 1; padding: 12px 20px; border: 2px solid #eee; border-radius: 8px; outline: none;">
+            <button style="background: var(--main); color: white; border: none; padding: 0 25px; border-radius: 8px; cursor: pointer;">搜索</button>
         </div>
-    </main>
-
-    <script>
-        function filterCategory(cat) {
-            // 1. 更新标题和路径
-            document.getElementById('cat-name').innerText = cat;
-            document.getElementById('path').innerText = `文章库 / ... / ${cat}`;
-
-            // 2. 更新侧边栏高亮
-            document.querySelectorAll('.level-3').forEach(el => el.classList.remove('active'));
-            event.target.classList.add('active');
-
-            // 3. 筛选文章
-            const cards = document.querySelectorAll('.post-card');
-            cards.forEach(card => {
-                if (card.getAttribute('data-cat') === cat) {
-                    card.style.display = 'block';
-                } else {
-                    card.style.display = 'none';
-                }
-            });
-        }
-    </script>
+    </div>-->
+    <section class="hero">
+        <h1>本站专注于比利·迈尔（Billy Meier）接触报告的中文翻译与研究</h1>
+        <p>收录最全的昂宿星人（Plejaren）对话录、UFO证据照片及相关预言解析</p>
+        <a href="list.html" class="btn">立即开始阅读</a>
+    </section>
+    <section class="section">
+        <div class="f-card">
+            <h3>外星文明</h3>
+            <p>来自安卡宇宙的埃拉人</p>
+        </div>
+        <div class="f-card">
+            <h3>生死轮回</h3>
+            <p>你应该知道关于生命的知识</p>
+        </div>
+        <div class="f-card"><h3>精选内容</h3><p>从科技文明到宇宙结构，拓宽你的视野。</p></div>
+    </section>
 </body>
 </html>
