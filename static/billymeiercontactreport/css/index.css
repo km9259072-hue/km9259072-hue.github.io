@@ -1,0 +1,12 @@
+/* 英雄区 */
+        /*.hero { background: linear-gradient(rgba(26,42,108,0.8), rgba(26,42,108,0.8)), url('https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=1350&q=80') center/cover; height: 70vh; display: flex; flex-direction: column; justify-content: center; align-items: center; color: white; text-align: center; }*/
+        .hero { background: linear-gradient(rgba(26,42,108,0.8), rgba(26,42,108,0.8)), url('/static/billymeiercontactreport/image/ufo_banner2.png') center/cover; height: 70vh; display: flex; flex-direction: column; justify-content: center; align-items: center; color: white; text-align: center; }
+        .hero h1 { font-size: 1.5rem; margin-bottom: 10px; }
+        .hero p { font-size: 1.2rem; opacity: 0.9; margin-bottom: 30px; }
+        .btn { padding: 12px 35px; background: var(--accent); color: white; text-decoration: none; border-radius: 50px; font-weight: bold; transition: 0.3s; box-shadow: 0 4px 15px rgba(243,156,18,0.3); }
+        .btn:hover { transform: scale(1.05); background: #e67e22; }
+
+        /* 特色展示 */
+        .section { padding: 80px 8%; display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; }
+        .f-card { background: white; padding: 40px; border-radius: 15px; text-align: center; box-shadow: 0 10px 30px rgba(0,0,0,0.03); }
+        .f-card h3 { margin-top: 0; color: var(--main); }
